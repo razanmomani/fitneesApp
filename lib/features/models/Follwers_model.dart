@@ -6,7 +6,6 @@ class FollwersMode {
   FollwersMode(
       {required this.image, required this.title, required this.subtitle});
 }
-
 List<FollwersMode> follwerList = [
   FollwersMode(
     image: 'assets/images/Ellipse 20.png',
